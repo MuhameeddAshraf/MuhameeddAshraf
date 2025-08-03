@@ -1,52 +1,58 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+to+My+GitHub+Profile+%F0%9F%91%8B" alt="Hello to Mohamed Ashraf GitHub Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+to+Mohamed+Ashraf's+GitHub+Profile+%F0%9F%91%8B;Welcome+to+my+tech+space+%F0%9F%92%BB" alt="Animated Header" />
 </p>
 
-# 👋 Hi, I'm Muhammed Ashraf
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" height="150" style="border-radius:50%" alt="Profile Avatar"/>
+</p>
 
-**Engineer at Telecom Egypt 'WE' | Aspiring Database Developer | Tech Enthusiast**
+<h1 align="center"> 👋 Hi, I'm Muhammed Ashraf</h1>
 
----
-
-### 🚀 About Me
-
-I'm currently working as an engineer at Telecom Egypt 'WE'. My passion lies in database development, and I'm actively expanding my expertise in SQL, PL/SQL, and Oracle technologies.
-
-- 💡 **Problem Solver**: I love tackling challenges and building solutions.
-- 👨‍💻 **Developer**: Skilled in SQL, Python, and C.
-- 🤝 **Team Player**: Collaboration and teamwork are at the heart of my work.
-- 📚 **Lifelong Learner**: Always eager to learn new technologies and improve my skills.
+<p align="center">
+ <b>Engineer at Telecom Egypt 'WE' | Aspiring Database Developer | Tech Enthusiast</b>
+</p>
 
 ---
 
-### 🛠️ Technical Skills
-
-- **Languages:** SQL, PL/SQL, Python, C
-- **Database:** Oracle DB (learning), SQL fundamentals
-- **Other:** Problem solving, teamwork, development
-
----
-
-### 🌱 What I'm Learning
-
-- Advanced SQL & PL/SQL for Oracle
-- Database design and development
-- Data engineering concepts
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/SQL-3178C6?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</div>
 
 ---
 
-### ⚽ Interests
+## 🚀 About Me
 
-- Football
-- Reading
-- Traveling
-
----
-
-### 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/muhammedd-ashraf/)
+- 🏢 Currently engineer at **Telecom Egypt 'WE'**
+- 🗄️ Passionate about **database development** and **Oracle technologies**
+- 💡 Love solving problems, building solutions, and working in teams
+- 👨‍💻 Skilled in **SQL**, **Python**, **C**, and more
+- 📚 Always learning and growing – currently deepening my expertise in **Oracle** and **data engineering**
 
 ---
 
-Thanks for visiting my profile! 🚀
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,oracle,sqlite,git,c" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **SQL & PL/SQL** for Oracle
+- **Database Design** and **Data Engineering**
+- Best practices for teamwork in tech
+
+---
+
+## ⚽ Other Interests
+
+- Football (Soccer) ⚽
+- Reading 📚
+
