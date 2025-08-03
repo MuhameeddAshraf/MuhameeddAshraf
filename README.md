@@ -1,12 +1,20 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving hand Hello" />
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="180" alt="Welcome" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B22222&center=true&vCenter=true&width=700&lines=Hello+to+Mohamed+Ashraf's+GitHub;Profile+%F0%9F%91%8B" alt="Animated Header Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=B22222&center=true&vCenter=true&width=700&lines=*********************" alt="Animated Header Typing" />
 </p>
 
-<h1 align="center"> 👋 Hi, I'm Muhammed Ashraf</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=3000&color=B22222&center=true&vCenter=true&width=700&lines=******+WELCOME+******" alt="Animated Header Typing" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=B22222&center=true&vCenter=true&width=700&lines=*********************" alt="Animated Header Typing" />
+</p>
+
+<h1 align="center"> 👋 Hi, I'm Muhammed Ashraf 👋 </h1>
 
 <p align="center">
  <b>Engineer at Telecom Egypt 'WE' | Aspiring Database Developer | Tech Enthusiast</b>
@@ -39,10 +47,21 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,oracle,sqlite,git,c" />
-</div>
-
+<p align="center">
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <!-- PL/SQL (Oracle icon) -->
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <!-- SQL (Generic) -->
+  <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" alt="SQL" />
+  <!-- Database (MySQL as a generic icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="Database" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="PL/SQL" />
+  <!-- Networking (network icon) -->
+  <img src="https://img.icons8.com/color/48/000000/network.png" width="40" alt="Networking" />
+  <!-- CSS -->
+</p>
 ---
 
 ## 🌱 Currently Learning
