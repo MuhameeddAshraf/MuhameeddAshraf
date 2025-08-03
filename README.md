@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" alt="Waving hand Hello" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+to+Mohamed+Ashraf's+GitHub+Profile+%F0%9F%91%8B;Welcome+to+my+tech+space+%F0%9F%92%BB" alt="Animated Header" />
 </p>
 
@@ -15,7 +19,6 @@
 ---
 
 <div align="center">
-  
   <img src="https://img.shields.io/badge/SQL-3178C6?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -55,4 +58,20 @@
 
 - Football (Soccer) ⚽
 - Reading 📚
+- Traveling 🌍
 
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammedd-ashraf/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhameeddAshraf&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" width="60%" />
+</p>
+
+<p align="center"><b>Thanks for visiting my profile! 🚀</b></p>
