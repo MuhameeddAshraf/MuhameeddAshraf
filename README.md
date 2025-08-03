@@ -1,13 +1,13 @@
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" height="150" style="border-radius:50%" alt="Profile Avatar"/>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" alt="Waving hand Hello" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+to+Mohamed+Ashraf's+GitHub;Profile+%F0%9F%91%8B" alt="Animated Header Typing" />
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" height="150" style="border-radius:50%" alt="Profile Avatar"/>
 </p>
 
 <h1 align="center"> 👋 Hi, I'm Muhammed Ashraf</h1>
